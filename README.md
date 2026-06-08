@@ -6,13 +6,11 @@
 **LinkedIn:** [jstaguan](https://www.linkedin.com/in/jstaguan)  
 **Privacy Policy:** [androidapps.xapps-lab.com/privacy](https://androidapps.xapps-lab.com/privacy)
 
-## APP Status:Under Internal Testing
+## APP Status: Under Internal Testing
 
-Drop us your gmail to download your pre-release app from playstore.
+**Direct APK Download:** [app-release.apk](https://github.com/tahgoi/AndroidAPP_remoteChatAppLLM/raw/master/app-release.apk)
 
-Pre-Release Download: https://play.google.com/apps/internaltest/4700612420796748501
-
-email: android.xappslab@gmail.com
+**Google Play (Internal Testing):** [Request access](https://play.google.com/apps/internaltest/4700612420796748501) — drop us your Gmail at android.xappslab@gmail.com
 ---
 
 ## Core Features
