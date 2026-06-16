@@ -8,7 +8,7 @@
 
 ## APP Status: Under Internal Testing
 
-**Direct APK Download:** [app-release.apk](https://github.com/tahgoi/AndroidAPP_remoteChatAppLLM/raw/master/app-release.apk)
+**Direct APK Download:** [app-release.apk](https://github.com/tahgoi/AndroidAPP_remoteChatAppLLM/releases/download/v1.18/app-release.apk)
 
 **Google Play (Internal Testing):** [Request access](https://play.google.com/apps/internaltest/4700612420796748501) — drop us your Gmail at android.xappslab@gmail.com
 ---
